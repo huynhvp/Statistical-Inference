@@ -1,3 +1,3 @@
 # Statistical-Inference
 
-This notebook implement 
+This notebook implements Naive Bayes Classification and Bayesian Linear Regression on MNIST and CIFAR10 dataset
